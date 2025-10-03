@@ -1,4 +1,4 @@
-# 🏔️ Alpine Shiels Project
+# 🏔️ Alpine Shield Smart Jacket Project
 
 A **smart wearable safety system** designed for mountaineers to monitor vital health parameters and environmental conditions in real-time.  
 This project combines **IoT, sensor integration, GPS, and wireless communication** into a modular wearable jacket that enhances safety and decision-making during expeditions.  
@@ -27,4 +27,4 @@ This system ensures proactive decision-making, quick emergency response, and imp
 
 ---
 
-## 📂 Project Structure
+
