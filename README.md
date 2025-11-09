@@ -28,5 +28,18 @@ This system ensures proactive decision-making, quick emergency response, and imp
 ---
 
 
-## 📖 Conclusion
+## 📖 Result and Discussions
+
+The microcontroller controls all the health monitoring
+Sensors and sends the data to the caretaker through the
+NRF module. A buzzer is there for an emergency signal
+to send the signal to the caretaker in case if any health
+emergency occurs.
+The data monitored by the system includes the heart rate,
+body and atmospheric temperature, pulse rate,
+atmospheric and body pressure, and real time location of
+the climber, ensuring a through tracking system. This
+system is vital in extreme conditions where health and
+location data need to be transmitted continuously for the
+climber’s safety.
 
